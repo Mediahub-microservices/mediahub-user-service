@@ -11,6 +11,3 @@ spring:
       hibernate:
         format_sql: true
         dialect: org.hibernate.dialect.PostgreSQLDialect
-  jackson:
-    serialization:
-      write-durations-as-timestamps: false
